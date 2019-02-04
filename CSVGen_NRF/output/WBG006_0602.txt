@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0602,10834,Versatil,Footwear,Versatil Classic White Bag,WomenHandbagsColor,0,White bag with silver metal studs,"A puffy white bag made of soft leather, this bag has short rounded straps for comfy grip and a zipper in the front for your cell phone and keys. The silver metal studs at the sides show off a modern, stylish look.",60

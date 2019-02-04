@@ -1,0 +1,3 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WCL004_041801,11037,Gusso,Bottomwear,Gusso Straight Leg Corduroy Pants,WomenPantsColor,Gray,Straight leg pale gray corduroy pants,These soft corduroy pants show a slim silhouette with a casual style. The rugged style and the two front pockets keep it utilitarian. These pants also have loops at the waist for a matching belt.,60
+WCL004_041801,11037,Gusso,Bottomwear,Gusso Straight Leg Corduroy Pants,WomenPantsSize,XS,Straight leg pale gray corduroy pants,These soft corduroy pants show a slim silhouette with a casual style. The rugged style and the two front pockets keep it utilitarian. These pants also have loops at the waist for a matching belt.,60

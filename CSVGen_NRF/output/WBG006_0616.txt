@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0616,10854,Luigi Valenti,Footwear,Luigi Valenti Dual-Toned Bag,WomenHandbagsColor,0,Dual-toned bag,This dual-toned bag is a combination of light and dark browns with a black dotted closing flap. The bag is made of soft leather and has a short leather handle fastened to metal rims. Match the bag with a dark-colored dress for a refined appearance.,60

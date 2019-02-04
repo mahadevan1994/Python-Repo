@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WAC007_0715,10778,Versatil,Accessories,"Versatil Large, Square Sunglasses",WomenAccessoriesColor,0,"Large, square sunglasses with frames in dual colors","With large, square frames and tinted lenses, these sunglasses appear stylish. Following an 80s slit style, they are classic and designer. Being polarized, these glasses protect you from UV rays and extra glare.",50

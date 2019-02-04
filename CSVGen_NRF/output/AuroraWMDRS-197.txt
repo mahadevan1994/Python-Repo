@@ -1,0 +1,7 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+AuroraWMDRS-197,10236,Albini,Topwear,Albini Silk Evening Dress,swatchcolor,Teal,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-197,10236,Albini,Topwear,Albini Silk Evening Dress,swatchSize,XL,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-197,10236,Albini,Topwear,Albini Silk Evening Dress,construction,Knit,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-197,10236,Albini,Topwear,Albini Silk Evening Dress,length,Long,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-197,10236,Albini,Topwear,Albini Silk Evening Dress,material,Georgette,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-197,10236,Albini,Topwear,Albini Silk Evening Dress,occasion,Casual,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250

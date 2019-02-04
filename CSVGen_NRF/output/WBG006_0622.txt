@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0622,10864,Borsati,Footwear,Borsati Sparkling Silver Box Clutch,WomenHandbagsColor,0,Sparkling silver box clutch with dual handles,"This sparkling silver box clutch comes with two handles a short titanium handle and a long silver chain. Monocromatic and pale hued, this jazzy purse has a hardshell cover. It is a must-have in your evening wardrobe.",70

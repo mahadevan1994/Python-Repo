@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_061801,10859,Versatil,Footwear,Versatil Embroidered Clutch Purse,WomenHandbagsColor,Brown,Brown embroidered clutch purse with beaded handle,"Attached to a beautiful handle with gold beadwork, this brown clutch is embroidered with sequins and motifs in a floral design. The warm earthy hue will match with all your outfits. Carry it for a special occasion and be noticed.",50

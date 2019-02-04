@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_062001,10863,Gusso,Footwear,Gusso Silver Sequined Clutch Purse,WomenHandbagsColor,Silver,Silver shiny and sequined clutch purse,This silver clutch is compact for you to carry with your favorite evening dress. Silver sequins are threaded together to form the glitzy and glamorous pouch. The clutch looks showy and sophisticated and comes with a silver clasp and beading.,50

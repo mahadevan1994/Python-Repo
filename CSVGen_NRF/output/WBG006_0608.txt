@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0608,10842,Luigi Valenti,Footwear,Luigi Valenti Beige Tote Bag,WomenHandbagsColor,0,Beige tote bag with contrast-colored straps,"This square-shaped beige tote bag is color-coordinated with contrast brown straps and beading around the bag. For a fancier look, the ends of the straps, adorned with metal clasps, are fastened to black and white patterned leather patches.",70

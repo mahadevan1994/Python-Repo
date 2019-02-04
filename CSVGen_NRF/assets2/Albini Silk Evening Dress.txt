@@ -1,0 +1,4 @@
+AuroraWMDRS-13,10013,Albini,Topwear,Albini Silk Evening Dress,construction,Knit,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-13,10013,Albini,Topwear,Albini Silk Evening Dress,length,Long,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-13,10013,Albini,Topwear,Albini Silk Evening Dress,material,Georgette,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250
+AuroraWMDRS-13,10013,Albini,Topwear,Albini Silk Evening Dress,occasion,Casual,Silk cocktail dress with pleated neck and hem,Luxurious silk dress with pleated neck and hem. Perfect for the red carpet or for a spectacular entrance.,250

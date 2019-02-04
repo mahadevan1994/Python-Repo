@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0605,10838,Gusso,Footwear,Gusso Black Leather Tote Bag,WomenHandbagsColor,0,Simple leather tote bag,"A simple and chic black leather tote bag, this bag has a straight, sharp look, following a modern design. The stitching at the center gives a finished look to the bag with enough space to hold the basic things every woman requires.",50

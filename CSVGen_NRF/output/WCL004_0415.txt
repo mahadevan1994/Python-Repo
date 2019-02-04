@@ -1,0 +1,3 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WCL004_0415,11018,Albini,Bottomwear,Albini Beige Cotton Trousers,WomenPantsColor,0,Beige cotton trousers,"This pair of slimming trousers is well-cut and form-fitting. These trousers are tapered to allow for a groomed look. Of cotton make, wear it with flats, boots, or stilettos for shopping or a cocktail evening.",60
+WCL004_0415,11018,Albini,Bottomwear,Albini Beige Cotton Trousers,WomenPantsSize,0,Beige cotton trousers,"This pair of slimming trousers is well-cut and form-fitting. These trousers are tapered to allow for a groomed look. Of cotton make, wear it with flats, boots, or stilettos for shopping or a cocktail evening.",60

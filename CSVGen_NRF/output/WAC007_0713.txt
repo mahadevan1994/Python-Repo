@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WAC007_0713,10774,Luigi Valenti,Accessories,Luigi Valenti Oval Gradient Glasses,WomenAccessoriesColor,0,Oval gradient glasses with brown plastic frames,"These oval glasses feature purple gradient lenses on brown plastic frames. They are timeless and have been part of the everlasting fashionable items in the modern world. With a retro look, they are vintage style sunglasses.",60

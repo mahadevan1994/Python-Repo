@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WAC007_0725,10782,Gusso,Accessories,Gusso Black-Rimmed Round Sunglasses,WomenAccessoriesColor,0,Black-rimmed round sunglasses,"These black-rimmed round sunglasses are your vintage oversized glasses with purple gradient lenses. The round frames set the look for the season. In sober black, these glasses can be matched with any outfit.",60

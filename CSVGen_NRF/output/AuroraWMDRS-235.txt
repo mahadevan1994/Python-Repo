@@ -1,0 +1,7 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+AuroraWMDRS-235,10262,Gusso,Topwear,Gusso Pleated Sleeveless Dress,swatchcolor,Beige,Sleeveless slip dress with satin hem and flared body,"Perfect for summer, this sleeveless dress with satin hem and flared body keeps you cool.",50
+AuroraWMDRS-235,10262,Gusso,Topwear,Gusso Pleated Sleeveless Dress,swatchSize,S,Sleeveless slip dress with satin hem and flared body,"Perfect for summer, this sleeveless dress with satin hem and flared body keeps you cool.",50
+AuroraWMDRS-235,10262,Gusso,Topwear,Gusso Pleated Sleeveless Dress,construction,Knit,Sleeveless slip dress with satin hem and flared body,"Perfect for summer, this sleeveless dress with satin hem and flared body keeps you cool.",50
+AuroraWMDRS-235,10262,Gusso,Topwear,Gusso Pleated Sleeveless Dress,material,100% cotton,Sleeveless slip dress with satin hem and flared body,"Perfect for summer, this sleeveless dress with satin hem and flared body keeps you cool.",50
+AuroraWMDRS-235,10262,Gusso,Topwear,Gusso Pleated Sleeveless Dress,length,Short,Sleeveless slip dress with satin hem and flared body,"Perfect for summer, this sleeveless dress with satin hem and flared body keeps you cool.",50
+AuroraWMDRS-235,10262,Gusso,Topwear,Gusso Pleated Sleeveless Dress,occasion,Casual,Sleeveless slip dress with satin hem and flared body,"Perfect for summer, this sleeveless dress with satin hem and flared body keeps you cool.",50

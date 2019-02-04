@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_060901,10845,Albini,Footwear,Albini Hawaiian Satchel Bag,WomenHandbagsColor,Blue,Hawaiian satchel bag in turquoise blue,This satchel bag in turquoise blue with flower motifs portrays a Hawaiian look and feel and is perfect for the beach on a bright sunny day. Adjust the shoulder straps to any length for convenient handling.,80

@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_061701,10857,Albini,Footwear,Albini Black Sequined Clutch Purse,WomenHandbagsColor,Black,Black shiny and sequined clutch purse,"This black clutch is sequined and shiny to denote ultimate luxury and indulgence. Desirable for a cocktail evening, this purse sports a titanium clasp and beading. With a drop-in chain strap and a satin lining inside, you are sure to be flooded with compliments.",60

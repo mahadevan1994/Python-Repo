@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_061501,10853,Borsati,Footwear,Borsati Red Crocodile Handbag,WomenHandbagsColor,Red,Red crocodile handbag,This red crocodile handbag is stylish and luxurious with tubular top handles and a zip closure. The compact size makes it suitable for any outing. This designer handbag with croc pattern is made of the best quality leather.,90

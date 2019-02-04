@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_060101,10833,Albini,Footwear,Albini Fashionable Black Leather Bag,WomenHandbagsColor,Black,Black leather bag with two shoulder straps,This fashionable leather shoulder bag is large enough to do second duty as your tote bag. It has double leather straps embellished with metal hoops going across the body of the bag and a metal snap to adjust the length of the strap.,100

@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_060601,10841,Borsati,Footwear,Borsati Red Shiny Bag,WomenHandbagsColor,Red,Red shiny bag with metal buckles,"A strappy bag with metal hoops and buckles, the color variation lends depth and character to this red bag. The multiple seams crisscrossing across the bag and the showy strap with the metal ornament creates a stylish and fashionable look. Of soft leather make, this bag brings shimmer to your wardrobe.",80

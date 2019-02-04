@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0619,10860,Hermitage Collection,Footwear,Hermitage Red Sequined Clutch Purse,WomenHandbagsColor,0,Red sequined butterfly clutch purse with chain handle,"An iridescent butterfly of bright-colored plastic beads on a bed of blazing red sequins, this clutch is vibrant and flashy. Joined by a silver chain handle and clasp, this clutch can turn into the talk of the town.",60

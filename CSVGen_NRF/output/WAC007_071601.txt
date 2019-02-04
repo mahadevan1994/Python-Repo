@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WAC007_071601,10781,Hermitage Collection,Accessories,Hermitage Catty Sunglasses,WomenAccessoriesColor,Multi-color,Rectangular catty sunglasses,"Sporty sunglasses with a metal clasp around the temples, these glasses can present a catty look. In an alternating pattern of orange and black hues, they are functional as well as fashionable.",70

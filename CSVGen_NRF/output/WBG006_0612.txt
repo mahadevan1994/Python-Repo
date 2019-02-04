@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_0612,10850,Gusso,Footwear,Gusso Cloth Satchel Bag,WomenHandbagsColor,0,Chocolate brown woven cloth satchel bag,"This satchel bag displays a woven look with interlacing strands of brown and white threads. With an overlay of securely fastened leather straps in chocolate brown, this bag provides a refined and professional appearance.",50

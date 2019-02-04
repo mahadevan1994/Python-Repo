@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_061001,10847,Versatil,Footwear,Versatil White Satchel Leather Bag,WomenHandbagsColor,White,White satchel leather bag with long tassels,"This white satchel leather bag with thin straps, has a broad covering flap concealing the different pockets on the bag and is patterned in white checks. The bag is further adorned with long leather tassels attached to golden rings for a flamboyant look.",80

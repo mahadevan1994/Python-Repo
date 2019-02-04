@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WAC007_071401,10777,Albini,Accessories,Albini Rectangle Sunglasses,WomenAccessoriesColor,Pink,Rectangle sunglasses with pink patterned frames,"These rectangle sunglasses with pink patterned frames provide a youthful look. Suited for round faces, these glasses provide 100% UV protection. Wear it for an ultra glamorous appearance.",60

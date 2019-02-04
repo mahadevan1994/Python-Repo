@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WBG006_060301,10837,Hermitage Collection,Footwear,Hermitage Leopard Bag,WomenHandbagsColor,Multi-color,Leopard print cross-body bag,"A shoulder bag in leopard print with short shiny black straps, this bag exemplifies the latest in vogue. This bag also has a longer strap for cross-body wear. A small brass lock secures the zip closure.",80

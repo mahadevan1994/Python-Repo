@@ -1,0 +1,2 @@
+PARTNUMBER,CATENTRY_ID,BRAND,CATEGORY,NAME,ATTRIBUTENAME,ATTRIBUTE,SHORTDESCRIPTION,LONGDESCRIPTION,OFFERPRICE
+WAC007_0711,10772,Borsati,Accessories,Borsati Classic Black Aviator Sunglasses,WomenAccessoriesColor,0,Metal-rimmed classic black aviator sunglasses,"These classic black aviator sunglasses are known for its large, oval frames and dark gray lenses. Originally created for pilots, they are also known as  'pilot 's glasses '. The most basic of all glasses, these aviators can be worn for any occasion.",50
